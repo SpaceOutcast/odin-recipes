@@ -14,7 +14,20 @@ Source: https://www.flickr.com/photos/garysoup/10451433033/in/photostream/ <br>
 License: https://creativecommons.org/licenses/by/2.0/ <br>
 There were no changes made to the original version of the photo. <br><br>
 
+Title: Cobb Salad <br>
+Author: miheco <br>
+Source: https://www.flickr.com/photos/miheco/14134950412 <br>
+License: https://creativecommons.org/licenses/by-sa/2.0/ <br>
+There were no changes made to the original version of the photo. <br><br>
+ 
+Title: Club Chicken Pasta Salad <br>
+Author: jeffreyw <br>
+Source: https://www.flickr.com/photos/jeffreyww/6364178931 <br>
+License: https://creativecommons.org/licenses/by/2.0/ <br>
+There were no changes made to the original version of the photo. <br><br>
 
 Sources of recipes:
 
-Chicken Noodle Salad Recipe: https://www.allrecipes.com/recipe/274367/chicken-noodle-salad/
+Chicken Noodle Salad Recipe: https://www.allrecipes.com/recipe/274367/chicken-noodle-salad/ 
+Cobb Salad Recipe: https://www.allrecipes.com/recipe/14415/cobb-salad/ 
+Club Chicken Pasta Salad: https://www.allrecipes.com/recipe/236198/chicken-club-pasta-salad/
