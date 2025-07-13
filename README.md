@@ -3,8 +3,7 @@
 The goal of this repository is to train my HTML knowledge.
 
 Further information will be added during the development of
-website.
-
+website. <br><br>
 
 Images used for the project:
 
@@ -28,6 +27,9 @@ There were no changes made to the original version of the photo. <br><br>
 
 Sources of recipes:
 
-Chicken Noodle Salad Recipe: https://www.allrecipes.com/recipe/274367/chicken-noodle-salad/ <br>
-Cobb Salad Recipe: https://www.allrecipes.com/recipe/14415/cobb-salad/ <br>
-Club Chicken Pasta Salad: https://www.allrecipes.com/recipe/236198/chicken-club-pasta-salad/ <br><br>
+Chicken Noodle Salad Recipe: https://www.allrecipes.com/recipe/274367/chicken-noodle-salad/ 
+Author: John Mitzewich <br>
+Cobb Salad Recipe: https://www.allrecipes.com/recipe/14415/cobb-salad/
+Author: Barrett<br>
+Club Chicken Pasta Salad: https://www.allrecipes.com/recipe/236198/chicken-club-pasta-salad/ 
+Author: Lane J<br><br>
