@@ -8,8 +8,9 @@ website.
 
 Images used for the project:
 
-Title: Chicken Noodle Salad (Kyat Tha Khauk Swe' Thouk)
-Author: Gary Stevens
-Source: https://www.flickr.com/photos/garysoup/10451433033/in/photostream/
-License: https://creativecommons.org/licenses/by/2.0/
-There were no changes made to the original version of the photo.
+Title: Chicken Noodle Salad (Kyat Tha Khauk Swe' Thouk) <br>
+Author: Gary Stevens <br>
+Source: https://www.flickr.com/photos/garysoup/10451433033/in/photostream/ <br>
+License: https://creativecommons.org/licenses/by/2.0/ <br>
+There were no changes made to the original version of the photo. <br>
+
