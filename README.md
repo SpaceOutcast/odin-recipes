@@ -27,9 +27,9 @@ There were no changes made to the original version of the photo. <br><br>
 
 Sources of recipes:
 
-Chicken Noodle Salad Recipe: https://www.allrecipes.com/recipe/274367/chicken-noodle-salad/ 
+Chicken Noodle Salad Recipe: https://www.allrecipes.com/recipe/274367/chicken-noodle-salad/ <br>
 Author: John Mitzewich <br>
-Cobb Salad Recipe: https://www.allrecipes.com/recipe/14415/cobb-salad/
+Cobb Salad Recipe: https://www.allrecipes.com/recipe/14415/cobb-salad/ <br>
 Author: Barrett<br>
-Club Chicken Pasta Salad: https://www.allrecipes.com/recipe/236198/chicken-club-pasta-salad/ 
+Club Chicken Pasta Salad: https://www.allrecipes.com/recipe/236198/chicken-club-pasta-salad/ <br>
 Author: Lane J<br><br>
