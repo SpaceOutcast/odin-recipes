@@ -10,3 +10,24 @@ h1
     margin: 0 auto;
     text-align: center;
 }
+
+.space.chicken
+{
+ background-color: lightsalmon;
+}
+
+.space.cobb
+{
+ background-color: lightgreen;
+}
+
+.space.club
+{
+ background-color: lightskyblue;
+}
+
+.space
+{
+ padding: 8px;
+ margin: 5px 80% 10px auto;
+}
